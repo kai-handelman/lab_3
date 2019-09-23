@@ -12,4 +12,4 @@ echo "The sum is $sum"
 echo "The prod is $prod"
 echo "File namde $0"
 echo "Command line 1 $1"
-grep $1 $2
+grep $0 $1
